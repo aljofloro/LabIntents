@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabIntents</string>
+    <string name="custom_camera">Capturar Imagen</string>
+    <string name="btn_send">Enviar</string>
+    <string name="hnt_mensaje">Escriba su mensaje</string>
+    <string name="chooser_msn">Escoja la aplicación</string>
+</resources>
